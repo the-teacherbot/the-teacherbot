@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-teacherbot
 - 👀 I’m interested in ... machine learning, dogs, education
-- 🌱 I’m currently learning ... nihongo
+- 🌱 I’m currently learning ... AI soft skills
 - 💞️ I’m looking to collaborate on ... open source learning platforms
 - 📫 How to reach me ... the_teacher_bot@outlook.com
 - 😄 Pronouns: ... 🤖
